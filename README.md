@@ -1,4 +1,4 @@
-[![Header]( davidgcdev/mi-portfolio assets/logo.png "Header")]
+[![Header]( https://github.com/davidgcdev/mi-portfolio/blob/8ed1f002a2008fb5a39f8476e88c78322c099917/assets/logo.png "Header")]
 
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Java developer from Spain</h3>
